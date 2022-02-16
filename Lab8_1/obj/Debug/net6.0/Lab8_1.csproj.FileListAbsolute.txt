@@ -1,0 +1,15 @@
+C:\Users\Proshayrus\source\repos\Lab8_1\bin\Debug\net6.0\Lab8_1.exe
+C:\Users\Proshayrus\source\repos\Lab8_1\bin\Debug\net6.0\Lab8_1.deps.json
+C:\Users\Proshayrus\source\repos\Lab8_1\bin\Debug\net6.0\Lab8_1.runtimeconfig.json
+C:\Users\Proshayrus\source\repos\Lab8_1\bin\Debug\net6.0\Lab8_1.dll
+C:\Users\Proshayrus\source\repos\Lab8_1\bin\Debug\net6.0\ref\Lab8_1.dll
+C:\Users\Proshayrus\source\repos\Lab8_1\bin\Debug\net6.0\Lab8_1.pdb
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.csproj.AssemblyReference.cache
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfoInputs.cache
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfo.cs
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.csproj.CoreCompileInputs.cache
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.dll
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\ref\Lab8_1.dll
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.pdb
+C:\Users\Proshayrus\source\repos\Lab8_1\obj\Debug\net6.0\Lab8_1.genruntimeconfig.cache
